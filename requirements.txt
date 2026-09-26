@@ -3,3 +3,4 @@ markdown-to-json
 pysbd
 wtpsplit
 textract-py3
+requests
