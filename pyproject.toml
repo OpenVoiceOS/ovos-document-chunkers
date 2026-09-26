@@ -1,0 +1,44 @@
+[build-system]
+requires = ["setuptools>=77", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ovos-document-chunkers"
+dynamic = ["version"]
+description = "Document chunkers for OVOS"
+readme = "README.md"
+license = "MIT"
+authors = [
+    {name = "JarbasAi", email = "jarbasai@mailfence.com"}
+]
+keywords = ["OVOS", "openvoiceos", "plugin", "chunker", "document"]
+requires-python = ">=3.10"
+classifiers = [
+    "Programming Language :: Python :: 3",
+]
+dependencies = [
+    "quebra-frases",
+    "markdown-to-json",
+    "pysbd",
+    "wtpsplit",
+    "textract-py3",
+    # every module under ovos_document_chunkers.files imports requests, and
+    # files/__init__.py imports them all, so the subpackage did not import at
+    # all on a clean install
+    "requests",
+]
+
+[project.optional-dependencies]
+test = [
+    "pytest",
+]
+
+[project.urls]
+Homepage = "https://github.com/OpenVoiceOS/ovos-document-chunkers"
+
+[tool.setuptools.dynamic]
+version = {attr = "ovos_document_chunkers.version.__version__"}
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["ovos_document_chunkers*"]
