@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased](https://github.com/OpenVoiceOS/ovos-document-chunkers/tree/HEAD)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-document-chunkers/compare/0.1.2a6...HEAD)
+
+**Merged pull requests:**
+
+- fix: declare requests, and package with pyproject only [\#25](https://github.com/OpenVoiceOS/ovos-document-chunkers/pull/25) ([openvoiceos-bot](https://github.com/openvoiceos-bot))
+
 ## [0.1.2a6](https://github.com/OpenVoiceOS/ovos-document-chunkers/tree/0.1.2a6) (2026-09-26)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-document-chunkers/compare/0.1.2a5...0.1.2a6)
