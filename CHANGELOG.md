@@ -1,8 +1,8 @@
 # Changelog
 
-## [0.1.3a1](https://github.com/OpenVoiceOS/ovos-document-chunkers/tree/0.1.3a1) (2026-09-26)
+## [Unreleased](https://github.com/OpenVoiceOS/ovos-document-chunkers/tree/HEAD)
 
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-document-chunkers/compare/0.1.2a6...0.1.3a1)
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-document-chunkers/compare/0.1.2a6...HEAD)
 
 **Merged pull requests:**
 
