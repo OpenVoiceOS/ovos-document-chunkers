@@ -1,5 +1,0 @@
-quebra-frases
-markdown-to-json
-pysbd
-wtpsplit
-textract-py3
