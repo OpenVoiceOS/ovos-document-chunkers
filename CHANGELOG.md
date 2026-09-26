@@ -1,32 +1,40 @@
 # Changelog
 
-## [0.1.2a5](https://github.com/TigreGotico/ovos-document-chunkers/tree/0.1.2a5) (2026-07-30)
+## [0.1.2a6](https://github.com/OpenVoiceOS/ovos-document-chunkers/tree/0.1.2a6) (2026-09-26)
 
-[Full Changelog](https://github.com/TigreGotico/ovos-document-chunkers/compare/0.1.2a2...0.1.2a5)
-
-**Merged pull requests:**
-
-- docs: rewrite README in Simplified Technical English [\#20](https://github.com/TigreGotico/ovos-document-chunkers/pull/20) ([JarbasAl](https://github.com/JarbasAl))
-
-## [0.1.2a2](https://github.com/TigreGotico/ovos-document-chunkers/tree/0.1.2a2) (2025-12-18)
-
-[Full Changelog](https://github.com/TigreGotico/ovos-document-chunkers/compare/0.1.2a1...0.1.2a2)
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-document-chunkers/compare/0.1.2a5...0.1.2a6)
 
 **Merged pull requests:**
 
-- chore: Configure Renovate [\#12](https://github.com/TigreGotico/ovos-document-chunkers/pull/12) ([renovate[bot]](https://github.com/apps/renovate))
+- ci: the build test calls the shared workflow instead of pinning Python 3.8 [\#23](https://github.com/OpenVoiceOS/ovos-document-chunkers/pull/23) ([openvoiceos-bot](https://github.com/openvoiceos-bot))
 
-## [0.1.2a1](https://github.com/TigreGotico/ovos-document-chunkers/tree/0.1.2a1) (2025-07-18)
+## [0.1.2a5](https://github.com/OpenVoiceOS/ovos-document-chunkers/tree/0.1.2a5) (2026-07-30)
 
-[Full Changelog](https://github.com/TigreGotico/ovos-document-chunkers/compare/0.1.1...0.1.2a1)
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-document-chunkers/compare/0.1.2a2...0.1.2a5)
+
+**Merged pull requests:**
+
+- docs: rewrite README in Simplified Technical English [\#20](https://github.com/OpenVoiceOS/ovos-document-chunkers/pull/20) ([JarbasAl](https://github.com/JarbasAl))
+
+## [0.1.2a2](https://github.com/OpenVoiceOS/ovos-document-chunkers/tree/0.1.2a2) (2025-12-18)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-document-chunkers/compare/0.1.2a1...0.1.2a2)
+
+**Merged pull requests:**
+
+- chore: Configure Renovate [\#12](https://github.com/OpenVoiceOS/ovos-document-chunkers/pull/12) ([renovate[bot]](https://github.com/apps/renovate))
+
+## [0.1.2a1](https://github.com/OpenVoiceOS/ovos-document-chunkers/tree/0.1.2a1) (2025-07-18)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-document-chunkers/compare/0.1.1...0.1.2a1)
 
 **Fixed bugs:**
 
-- Update requirements.txt [\#8](https://github.com/TigreGotico/ovos-document-chunkers/pull/8) ([JarbasAl](https://github.com/JarbasAl))
+- Update requirements.txt [\#8](https://github.com/OpenVoiceOS/ovos-document-chunkers/pull/8) ([JarbasAl](https://github.com/JarbasAl))
 
 **Merged pull requests:**
 
-- fix: better error handling [\#9](https://github.com/TigreGotico/ovos-document-chunkers/pull/9) ([JarbasAl](https://github.com/JarbasAl))
+- fix: better error handling [\#9](https://github.com/OpenVoiceOS/ovos-document-chunkers/pull/9) ([JarbasAl](https://github.com/JarbasAl))
 
 
 
